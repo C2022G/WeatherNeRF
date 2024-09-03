@@ -13,7 +13,7 @@ Let's complete the basic setup before we run the model。
  
 + Clone this repo by
 ```python
-git clone https://github.com/C2022G/dhsnerf.git
+git clone https://github.com/C2022G/WeatherNeRF.git
 ```
 +  Create an anaconda environment
 ```python
@@ -50,7 +50,8 @@ conda create -n dcpnerf python=3.7
 	```
   
 ## Datasets
-**The dataset can be obtained from [Baidu synthetic](https://pan.baidu.com/s/1lU6HwSGHKnse1seTR0Kj3Q?pwd=2024) and [Baidu LLFF](https://pan.baidu.com/s/1P-AbrCpwB1aUyP-wSpMXSQ).**
+**The dataset can be obtained from [Baidu LLFF]( https://pan.baidu.com/s/1DyDZfNGKas8zyRe55PsQXw?pwd=63fg).**
+
 
 ## Training
 ```python
