@@ -50,7 +50,7 @@ conda create -n dcpnerf python=3.7
 	```
   
 ## Datasets
-**The dataset can be obtained from [Baidu LLFF]( https://pan.baidu.com/s/1DyDZfNGKas8zyRe55PsQXw?pwd=63fg).**
+**The dataset can be obtained from Baidu LLFF(https://pan.baidu.com/s/1s5QFNZ3XoxQQMBQyW0B0oA?pwd=rexh 提取码: rexh).**
 
 
 ## Training
